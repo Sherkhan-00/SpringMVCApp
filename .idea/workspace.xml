@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="SpringMVCApp1-master:war" />
+      <artifact name="App:war" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f7e4e80-6b7b-4640-a404-6523025d5e0e" name="Changes" comment="Lesson 17" />
+    <list default="true" id="2f7e4e80-6b7b-4640-a404-6523025d5e0e" name="Changes" comment="Lesson 19 RequestParam">
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/calculator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kz/sherkhan/springmvc/controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/sherkhan/springmvc/controllers/FirstController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,8 +55,12 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/Шерхан/Программирование/Java-Spring/SpringMVCApp1",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "spring.configuration.checksum": "5b0457c34372c2098ab893d9250e4d6c"
   }
@@ -60,7 +70,7 @@
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="SpringMVCApp1-master:war">
+        <artifact name="App:war">
           <settings>
             <option name="CONTEXT_PATH" value="" />
           </settings>
@@ -141,6 +151,7 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="SpringMVCApp1-master:war" />
+          <artifact name="App:war" />
         </option>
       </method>
     </configuration>
@@ -163,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660836369617</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson 19 HttpServletRequest">
+      <created>1661089642635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661089642635</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson 19 RequestParam">
+      <created>1661098503066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661098503066</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +199,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -182,6 +219,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 17" />
+    <MESSAGE value="Lesson 19 HttpServletRequest" />
+    <MESSAGE value="Lesson 19 RequestParam" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 19 RequestParam" />
   </component>
 </project>
