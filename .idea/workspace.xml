@@ -9,8 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f7e4e80-6b7b-4640-a404-6523025d5e0e" name="Changes" comment="Lesson 25">
+    <list default="true" id="2f7e4e80-6b7b-4640-a404-6523025d5e0e" name="Changes" comment="Lesson 26">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kz/sherkhan/springmvc/dao/PersonMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kz/sherkhan/springmvc/config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/sherkhan/springmvc/config/SpringConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/kz/sherkhan/springmvc/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/sherkhan/springmvc/dao/PersonDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Шерхан/Программирование/Java-Spring/SpringMVCApp1",
+    "last_opened_file_path": "D:/Шерхан/Программирование/Java-Spring/App",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -176,7 +179,8 @@
       <workItem from="1661405282347" duration="12348000" />
       <workItem from="1661617434025" duration="631000" />
       <workItem from="1661688183226" duration="2909000" />
-      <workItem from="1661836164829" duration="9514000" />
+      <workItem from="1661836164829" duration="10534000" />
+      <workItem from="1661939813153" duration="2094000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson 17">
       <created>1660836369617</created>
@@ -241,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661929857915</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lesson 26">
+      <created>1661935846396</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661935846396</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +291,7 @@
     <MESSAGE value="Lesson 23" />
     <MESSAGE value="Lesson 24" />
     <MESSAGE value="Lesson 25" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 25" />
+    <MESSAGE value="Lesson 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 26" />
   </component>
 </project>
